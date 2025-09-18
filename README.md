@@ -1,9 +1,10 @@
-<h1 align="left">Hi! 👋 My name is Jaime! />
+<h1 align="left">Hi! 👋 My name is Jaime!</h1>
 
 ###
 <!--> Stats and top section <-->
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtachan&theme=nord_dark" alt="Profile details" />
   <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" />
   <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
   <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" />
@@ -15,8 +16,8 @@
 ************************
     TODO:
       - Organize the following sections to keep the picture at the right side.
+-->
 
---> 
 ###
 <!-- Technologies -->
 
