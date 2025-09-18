@@ -1,18 +1,23 @@
-<h2 align="left">Hi 👋! My name is Jaime!</h2>
+<h1 align="left">Hi! 👋 My name is Jaime! />
 
 ###
+<!--> Stats and top section <-->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jtachan&show_icons=true&theme=tokyonight&hide_border=true">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jtachan&show_icons=true&hide_border=true" height="160">
-    </picture>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtachan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/jtachan/jtachan/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" />
 </div>
 
+
+<!--> 
+    ************************
+    TODO:
+      - Organize the following sections to keep the picture at the right side.
+<-->
 ###
+<!--> Technologies <-->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -30,9 +35,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--> <img align="right" height="150" src="PROFILE_IMG"> <-->
 
 ###
+<!--> Contact section <-->
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
@@ -40,9 +46,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="47" height="35" alt="ko-fi logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
