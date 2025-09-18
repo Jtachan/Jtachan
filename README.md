@@ -11,13 +11,14 @@
 </div>
 
 
-<!--> 
-    ************************
+<!-- 
+************************
     TODO:
       - Organize the following sections to keep the picture at the right side.
-<-->
+
+--> 
 ###
-<!--> Technologies <-->
+<!-- Technologies -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -35,10 +36,10 @@
 
 ###
 
-<!--> <img align="right" height="150" src="PROFILE_IMG"> <-->
+<!-- <img align="right" height="150" src="PROFILE_IMG"> -->
 
 ###
-<!--> Contact section <-->
+<!-- Contact section -->
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
