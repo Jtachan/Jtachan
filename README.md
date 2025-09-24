@@ -21,11 +21,13 @@ I studied mechatronics for my degree and I hold a masters in Artificial Intellig
 </div>
 
 ### Frameworks & Libraries
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/qt/qt-original.svg" alt="Qt" width=40>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/qt/qt-original.svg" alt="Qt" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="NumPy" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="Pandas" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width=40>
+</div>
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
