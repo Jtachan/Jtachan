@@ -13,10 +13,12 @@ I studied mechatronics for my degree and I hold a masters in Artificial Intellig
 ## 💻 Tech Stack
 
 ### Programming Languages
-<img src="./icons/python.svg" alt="Python" width=60>
-<img src="./icons/rust.svg" alt="Rust" width=60>
-<img src="./icons/cplusplus.svg" alt="C++" width=60>
-<img src="./icons/html5.svg" alt="HTML5" width=60>
+<div>
+    <img src="./icons/python.svg" alt="Python" width=40>
+    <img src="./icons/rust.png" alt="Rust" width=40>
+    <img src="./icons/cplusplus.svg" alt="C++" width=40>
+    <img src="./icons/html5.svg" alt="HTML5" width=40>
+</div>
 
 ### Frameworks & Libraries
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
