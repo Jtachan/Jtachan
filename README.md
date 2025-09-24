@@ -6,18 +6,18 @@ I'm an Algorithm Engineer always with the passion to learn new technologies.
 I studied mechatronics for my degree and I hold a masters in Artificial Intelligence.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="General GitHub Stats. Overall grade: B-">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages: Python/C++/JavaScript/HTML/Rust" height="200">
 </div>
 
 ## 💻 Tech Stack
 
 ### Programming Languages
 <div>
-    <img src="./icons/python.svg" alt="Python" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="Python" width=40>
     <img src="./icons/rust.png" alt="Rust" width=40>
-    <img src="./icons/cplusplus.svg" alt="C++" width=40>
-    <img src="./icons/html5.svg" alt="HTML5" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="HTML5" width=40>
 </div>
 
 ### Frameworks & Libraries
