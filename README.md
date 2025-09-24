@@ -21,7 +21,7 @@ I studied mechatronics for my degree and I hold a masters in Artificial Intellig
 </div>
 
 ### Frameworks & Libraries
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/qt/qt-original.svg" alt="Qt" width=40>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
