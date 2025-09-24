@@ -1,10 +1,16 @@
-# 💫 About Me:
-I'm Jaime, an Algorithm Engineer always with the passion to learn.
+# 💫 Hi! I'm Jtachan ...
 
-![](https://github-readme-stats.vercel.app/api?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+although my real name is Jaime.
+I'm an Algorithm Engineer always with the passion to learn.
 
-# 💻 Tech Stack:
+I studied mechatronics for my degree and I hold a masters in Artificial Intelligence.
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200">
+</div>
+
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,5 +25,5 @@ I'm Jaime, an Algorithm Engineer always with the passion to learn.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaime-gonzalezg) 
