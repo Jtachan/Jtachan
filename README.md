@@ -39,3 +39,4 @@ I studied mechatronics for my degree and I hold a masters in Artificial Intellig
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaime-gonzalezg) 
+[![Proton mail](https://omg.shields.io/badge/Proton%20Mail-6D4AFF.svg?logo=protonmail)](jgonzg@proton.me)
