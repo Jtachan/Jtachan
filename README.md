@@ -3,7 +3,7 @@
 ... but you can call me Jaime.
 
 I'm an Algorithm Engineer always with the passion to learn new technologies.
-I studied mechatronics for my degree and I hold a masters in Artificial Intelligence.
+No matter what is the challenge, I bet it can be done!
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jtachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="General GitHub Stats. Overall grade: B-">

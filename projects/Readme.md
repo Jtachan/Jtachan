@@ -7,6 +7,7 @@ This is more of a document for myself, to organize my work among projects.
 - [ ] Create your own **git**
 - [ ] Game Boy Color emulator (Rust)
 - [ ] Create a new OS
+- [ ] Simple ASCII art generator
 
 ## Enhace
 
