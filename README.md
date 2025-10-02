@@ -50,4 +50,4 @@ No matter what is the challenge, I bet it can be done!
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaime-gonzalezg) 
-[![Proton mail](https://img.shields.io/badge/Proton%20Mail-6D4AAA.svg?logo=protonmail)](jgonzg@proton.me)
+[![Proton mail](https://img.shields.io/badge/Proton%20Mail-6D4AAA.svg?logo=protonmail)](mailto:jgonzg@proton.me)
