@@ -16,3 +16,4 @@ Beware that the linked repos might be private (if no substantial change is yet t
 - [ ] QR Generator
 - [ ] Password Manager
 - [ ] 8-bit chip emulator
+- [ ] Abstract Math Syntax Tree (AMST): Tree with binary and unary operations only for math
