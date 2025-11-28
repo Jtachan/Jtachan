@@ -9,6 +9,46 @@
   },
   {
     "joke": "¿Qué le dice una piedra a otra? Nada, las piedras no hablan.",
-    "reason": ""
+    "reason": "En este tipo de chistes, incluso los objetos inanimados pueden hablar. Por ello, el oyente se espera que las piedras puedan decir algo."
+  },
+  {
+    "joke": "¿Cual es el padre del príncipe azul? El blue rey.",
+    "reason": "El 'principe azul' es el príncipe bueno en todos los cuentos de princesa, pero es físicamente de color azul. Aún así, el 'blue rey' es el 'rey azul', que a su vez también suena como el sistema de discos 'BluRay'."
+  },
+  {
+    "joke": "Va una hormiga y le dice a otra: ¡Cuidado! ¡Que viene el hormigón!",
+    "reason": "El 'hormigón' es una mezcla de cemento y mortero, pero también significa una hormiga grande."
+  },
+  {
+    "joke": "¿Qué es rojo por fuera y verde por dentro? Una sandía disléxica.",
+    "reason": "La combinación de colores verde-rojo está fuertemente asociado a la sandía, pero los colores originales de una sandia son verde por fuera y rojo por dentro. Al estar los colores invertidos en la pregunta, el oyente no se espera que 'sandía' sea la respuesta."
+  },
+  {
+    "joke": "¿Cómo se despiden los químicos? Ácido un placer.",
+    "reason": "La frase suena a una persona con ceceo en el habla diciendo 'ha sido un placer', la igual que los químicos suelen trabajar con compuestos ácidos."
+  },
+  {
+    "joke": "¿De dónde sale la porcelana? De las porceovejas.",
+    "reason": "Las ovejas producen lana, pero al decir 'porcelana' el oyente no espera que se esté hablando de 'lana' con el prefijo 'porce'."
+  },
+  {
+    "joke": "¿Qué hace una abeja en el gimnasio? Zumba",
+    "reason": "'Zumba' no solo hace referencia a que las abejas zumben, si no también a un tipo de ejercicio impartido en clases dentro de los gimnasios."
+  },
+  {
+    "joke": "¿Dónde van las pulgas al morir? Al pulgatorio.",
+    "reason": "Juego de palabras refiriéndose al purgatorio, pero para pulgas."
+  },
+  {
+    "joke": "¿Qué le sucede a un mago cuando come mucho? Que se vuelve magordito.",
+    "reason": "Juego de palabras que hace referencia a que el mago engorda."
+  },
+  {
+    "joke": "Si los zombis se degradan con el paso del tiempo, ¿zombiodegradables?",
+    "reason": "La pregunta formulada suena a '¿son biodegradables?' pero ceceando, siendo a la vez un juego de palabras con 'zombie'."
+  },
+  {
+    "joke": "¿Qué le dice el 2 al 0? Veinte conmigo, guapetón.",
+    "reason": "La respuesta suena a 'vente conmigo', haciendo una referencia también a que los dígitos 2 y 0 conforman el número 20."
   }
 ]
