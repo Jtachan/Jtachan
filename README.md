@@ -6,8 +6,8 @@ I'm an Algorithm Engineer always with the passion to learn new technologies.
 No matter what is the challenge, I bet it can be done!
 
 <div align="center">
-    <img src="./profile/stats.svg" alt="GitHub Stats" height="200"/>
-    <img src="./profile/top-langs.svg" alt="Most used languages: Python/Rust/C++/Css" height="200">
+    <img src="docs/assets/gh_stats.svg" alt="GitHub Stats" height="200"/>
+    <img src="docs/assets/top_langs.svg" alt="Most used languages: Python/Rust/C++/Css" height="200">
 </div>
 
 <div style="display: flex; gap: 20px;">
