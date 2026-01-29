@@ -6,9 +6,8 @@ I'm an Algorithm Engineer always with the passion to learn new technologies.
 No matter what is the challenge, I bet it can be done!
 
 <div align="center">
-    <img src="https://github-readme-stats-tau-six-58.vercel.app/api?username=Jtachan&rank_icon=percentile&show_icons=true&theme=transparent" alt="GitHub Stats" height="200"/>
-    <img src="https://github-readme-stats-tau-six-58.vercel.app/api/top-langs/?username=Jtachan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages: Python/C++/JavaScript/HTML/Rust" height="200">
-
+    <img src="./profile/stats.svg" alt="GitHub Stats" height="200"/>
+    <img src="./profile/top-langs.svg" alt="Most used languages: Python/Rust/C++/Css" height="200">
 </div>
 
 <div style="display: flex; gap: 20px;">
