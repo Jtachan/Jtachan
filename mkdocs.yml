@@ -15,8 +15,6 @@ theme:
     - content.tooltips
     - content.code.annotate
     - content.code.copy
-    - content.action.edit
-    - content.action.view
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
@@ -28,24 +26,18 @@ theme:
     - search.highlight
     - toc.follow
   palette:
-  - media: "(prefers-color-scheme)"
-    toggle:
-      icon: material/brightness-auto
-      name: Switch to light mode
-  - media: "(prefers-color-scheme: light)"
-    scheme: default
-    primary: teal
-    accent: purple
-    toggle:
-      icon: material/weather-sunny
-      name: Switch to dark mode
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    primary: black
-    accent: lime
-    toggle:
-      icon: material/weather-night
-      name: Switch to system preference
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 markdown_extensions:
   - admonition  # https://squidfunk.github.io/mkdocs-material/reference/admonitions/?h=admonition#supported-types
