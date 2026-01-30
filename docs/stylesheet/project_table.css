@@ -1,0 +1,22 @@
+#project-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+#project-table th,
+#project-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+#project-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+#project-table tbody tr:hover {
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
