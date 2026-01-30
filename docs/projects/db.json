@@ -1,0 +1,4 @@
+[
+  {"name": "Gitr", "lang": "Rust", "descr": "Git clone using Rust."},
+  {"name": "DB Manager", "lang": "Python", "descr": "Python GUI to work with SQLite3 databases (files)."}
+]
