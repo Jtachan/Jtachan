@@ -1,4 +1,42 @@
 [
-  {"name": "Gitr", "lang": "Rust", "descr": "Git clone using Rust."},
-  {"name": "DB Manager", "lang": "Python", "descr": "Python GUI to work with SQLite3 databases (files)."}
+  {
+    "name": "Gitr",
+    "lang": "Rust",
+    "descr": "Git clone using Rust.",
+    "repo": ""
+  },
+  {
+    "name": "DB Manager",
+    "lang": "Python",
+    "descr": "Python GUI to work with SQLite3 databases (files).",
+    "repo": ""
+  },
+  {
+    "name": "PyQt-Sudoku",
+    "lang": "Python",
+    "tech": "PyQt6",
+    "descr": "Sudoku GUI generated with Python",
+    "repo": "https://github.com/Jtachan/PyQt-Sudoku"
+  },
+  {
+    "name": "Enigma Cipher",
+    "lang": "Python",
+    "tech": "",
+    "descr": "Cipher coded to mimic the enigma machine structure, but allowing customization.",
+    "repo": "https://github.com/Jtachan/enigma_cipher"
+  },
+  {
+    "name": "Conway's Game of Life",
+    "lang": "Python",
+    "tech": "",
+    "descr": "Simulation generated to experiment about other algorithms.",
+    "repo": "https://github.com/Jtachan/PyQt-Sudoku"
+  },
+  {
+    "name": "Rubik's Simulator",
+    "lang": "Python",
+    "tech": "numpy",
+    "descr": "Installable package to operate with the Rubik's cube using an easy and simple interface.",
+    "repo": "https://github.com/Jtachan/Rubik_sim"
+  }
 ]
