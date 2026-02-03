@@ -7,7 +7,6 @@ repo_name: "Jtachan/Jtachan"
 nav:
   - Home: index.md
   # - About: about.md  # WIP
-  - Project index: projects/table.md
 
 theme:
   name: material

@@ -5,8 +5,10 @@ Hey, I'm Jaime Gonzalez, **@Jtachan** on GitHub and other platforms.
 I develop Python (primary language) and Rust (secondary language) tools and libraries.
 Everything you can find here is open-source, where I explain the full process for anyone to be able to understand and recreate the projects.
 
-[<img alt="GitHub Stats" src="./assets/gh_stats.svg"/>](https://github.com/Jtachan)
-[<img alt="Most used languages: Python, Rust, C++, Javascript, HTML" src="./assets/top_langs.svg"/>](https://github.com/Jtachan)
+<div>
+    <img alt="GitHub Stats" src="./assets/profile/gh_stats.svg" href="https://github.com/Jtachan"/>
+    <img alt="Most used languages: Python, Rust, C++, Javascript, HTML" src="./assets/profile/top_langs.svg" href="https://github.com/Jtachan"/>
+</div>
 
 ## Project index table
 
