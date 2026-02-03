@@ -6,8 +6,8 @@ I'm an Algorithm Engineer always with the passion to learn new technologies.
 No matter what is the challenge, I bet it can be done!
 
 <div align="center">
-    <img src="docs/assets/gh_stats.svg" alt="GitHub Stats" height="200"/>
-    <img src="docs/assets/top_langs.svg" alt="Most used languages: Python/Rust/C++/Css" height="200">
+    <img src="docs/assets/profile/gh_stats.svg" alt="GitHub Stats" height="200"/>
+    <img src="docs/assets/profile/top_langs.svg" alt="Most used languages: Python/Rust/C++/Css" height="200">
 </div>
 
 <div style="display: flex; gap: 20px;">
@@ -20,7 +20,7 @@ No matter what is the challenge, I bet it can be done!
           <th>Programming Languages</th>
           <td><div>
               <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="Python" width=40>
-              <img src="./icons/rust.png" alt="Rust" width=40>
+              <img src="docs/assets/code-icons/rust.png" alt="Rust" width=40>
               <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40>
               <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="HTML5" width=40>
           </div></td>

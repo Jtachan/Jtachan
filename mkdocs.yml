@@ -45,6 +45,7 @@ extra_javascript:
 
 extra_css:
   - stylesheet/project_table.css
+  - stylesheet/extra.css
 
 markdown_extensions:
   - admonition  # https://squidfunk.github.io/mkdocs-material/reference/admonitions/?h=admonition#supported-types
