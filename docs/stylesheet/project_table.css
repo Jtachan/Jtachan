@@ -15,8 +15,24 @@
     background-color: #f4f4f4;
     font-weight: bold;
 }
+#project-table td {
+    text-align: left;
+}
 
 #project-table tbody tr:hover {
     background-color: #f0f0f0;
     cursor: pointer;
+}
+
+#project-table .icon {
+    max-width: 30px;
+    max-height: 30px;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+/* Centering only the second column of the table (language icons) */
+#project-table tbody tr td:nth-child(2) {
+    text-align: center;
 }
