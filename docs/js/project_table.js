@@ -9,7 +9,7 @@ function loadTable() {
     if (!container) return;
 
     container.innerHTML = '';
-    fetch('../db.json')
+    fetch('../projects_db.json')
         .then(response => response.json())
         .then(data => {
             // Create empty table: Headers + rows

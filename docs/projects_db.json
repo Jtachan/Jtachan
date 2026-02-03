@@ -28,14 +28,14 @@
   {
     "name": "Conway's Game of Life",
     "lang": "Python",
-    "tech": "",
+    "tech": "PyGame",
     "descr": "Simulation generated to experiment about other algorithms.",
     "repo": "https://github.com/Jtachan/PyQt-Sudoku"
   },
   {
     "name": "Rubik's Simulator",
     "lang": "Python",
-    "tech": "numpy",
+    "tech": "NumPy",
     "descr": "Installable package to operate with the Rubik's cube using an easy and simple interface.",
     "repo": "https://github.com/Jtachan/Rubik_sim"
   }
