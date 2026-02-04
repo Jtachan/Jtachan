@@ -1,23 +1,25 @@
 const columnConfig = [
     {key: 'name', header: 'Name'},
-    {key: 'lang', header: 'Language'},
+    {key: 'lang', header: 'Languages'},
+    {key: 'tech', header: 'Frameworks'},
     {key: 'descr', header: 'Description'},
 ]
 
-const iconExtensions = {
-    "Python": "svg",
-    "Rust": "png",
-}
-
 function getLangIcon(lang) {
-    const extension = iconExtensions[lang];
-
-    if (!extension) {
-        // No icon mapping found, using original text
-        return lang;
+    if (lang.constructor.name === "Array") {
+        let langIconsArray = [];
+        lang.forEach(langName => {
+            langIconsArray.push(getLangIcon(langName));
+        })
+        return langIconsArray;
     }
 
-    const iconPath = `../assets/code-icons/${lang.toLowerCase()}.${extension}`;
+    // Only strings come to this point forward.
+    if (lang === "") {
+        return document.createTextNode("");
+    }
+
+    const iconPath = `../assets/code-icons/${lang.toLowerCase()}.svg`;
 
     const img = document.createElement('img');
     img.src = iconPath;
@@ -60,10 +62,12 @@ function loadTable() {
                 const row = document.createElement('tr');
                 columnConfig.forEach(col => {
                     const cell = document.createElement('td');
-                    if (col.key === 'lang') {
+                    if (col.key === 'lang' || col.key === 'tech') {
                         const langContent = getLangIcon(projectData[col.key]);
-                        if (typeof langContent === 'string') {
-                            cell.textContent = langContent
+                        if (langContent.constructor.name === "Array") {
+                            langContent.forEach(langNode => {
+                                cell.appendChild(langNode);
+                            });
                         } else {
                             cell.appendChild(langContent);
                         }
