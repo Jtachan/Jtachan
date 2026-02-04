@@ -15,4 +15,7 @@ Everything you can find here is open-source, where I explain the full process fo
 Here you can see a table where I organize my projects (finished, on-going and not started).
 This is mostly an organizing tool for me, but you can use it to jump directly to those projects document or repository.
 
+!!! tip
+    If there is any icon you don't recognize, place the mouse cursor on top of it and it will display the name of the language or framework.
+
 <div id="project-table"></div>

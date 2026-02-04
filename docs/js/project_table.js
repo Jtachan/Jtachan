@@ -8,9 +8,12 @@ const columnConfig = [
 function getLangIcon(lang) {
     if (lang.constructor.name === "Array") {
         let langIconsArray = [];
-        lang.forEach(langName => {
+        lang.slice(0, 3).forEach(langName => {
             langIconsArray.push(getLangIcon(langName));
         })
+        if (lang.length >= 4) {
+            langIconsArray.push(document.createTextNode('...'));
+        }
         return langIconsArray;
     }
 
@@ -24,6 +27,7 @@ function getLangIcon(lang) {
     const img = document.createElement('img');
     img.src = iconPath;
     img.alt = lang;
+    img.title = lang;
     img.className = "icon";
 
     // If image fails to load → fallback to text
@@ -62,15 +66,12 @@ function loadTable() {
                 const row = document.createElement('tr');
                 columnConfig.forEach(col => {
                     const cell = document.createElement('td');
+                    cell.style.verticalAlign = 'middle';
                     if (col.key === 'lang' || col.key === 'tech') {
                         const langContent = getLangIcon(projectData[col.key]);
-                        if (langContent.constructor.name === "Array") {
-                            langContent.forEach(langNode => {
-                                cell.appendChild(langNode);
-                            });
-                        } else {
-                            cell.appendChild(langContent);
-                        }
+                        langContent.forEach(langNode => {
+                            cell.appendChild(langNode);
+                        });
                     } else {
                         cell.textContent = projectData[col.key];
                     }
