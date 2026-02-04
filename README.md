@@ -20,7 +20,7 @@ No matter what is the challenge, I bet it can be done!
           <th>Programming Languages</th>
           <td><div>
               <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="Python" width=40>
-              <img src="docs/assets/code-icons/rust.png" alt="Rust" width=40>
+              <img src="docs/assets/code-icons/rust.svg" alt="Rust" width=40>
               <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width=40>
               <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="HTML5" width=40>
           </div></td>
