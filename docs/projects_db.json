@@ -28,8 +28,8 @@
     "lang": [
       "Python",
       "JavaScript",
-      "CSS3",
-      "HTML5"
+      "HTML5",
+      "CSS3"
     ],
     "tech": [
       "JSON",
@@ -57,7 +57,7 @@
       "Python"
     ],
     "tech": [
-      ""
+      "MkDocs"
     ],
     "descr": "Cipher coded to mimic the enigma machine structure, but allowing customization.",
     "repo": "https://github.com/Jtachan/enigma_cipher",
