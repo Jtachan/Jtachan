@@ -1,42 +1,90 @@
 [
   {
     "name": "Gitr",
-    "lang": "Rust",
+    "lang": [
+      "Rust"
+    ],
     "descr": "Git clone using Rust.",
-    "repo": ""
+    "repo": "",
+    "post": "",
+    "tech": [
+      ""
+    ]
   },
   {
     "name": "DB Manager",
-    "lang": "Python",
+    "lang": [
+      "Python"
+    ],
     "descr": "Python GUI to work with SQLite3 databases (files).",
-    "repo": ""
+    "repo": "",
+    "tech": [
+      ""
+    ],
+    "post": ""
+  },
+  {
+    "name": "DnD Spells Table (ES)",
+    "lang": [
+      "Python",
+      "JavaScript",
+      "CSS3",
+      "HTML5"
+    ],
+    "tech": [
+      "JSON",
+      "GitHubActions"
+    ],
+    "descr": "Interactive and quick table for easy and fast access to a small dataset.",
+    "repo": "https://github.com/Jtachan/DnD-5.5-Spells-ES",
+    "post": ""
   },
   {
     "name": "PyQt-Sudoku",
-    "lang": "Python",
-    "tech": "PyQt6",
+    "lang": [
+      "Python"
+    ],
+    "tech": [
+      "Qt"
+    ],
     "descr": "Sudoku GUI generated with Python",
-    "repo": "https://github.com/Jtachan/PyQt-Sudoku"
+    "repo": "https://github.com/Jtachan/PyQt-Sudoku",
+    "post": ""
   },
   {
     "name": "Enigma Cipher",
-    "lang": "Python",
-    "tech": "",
+    "lang": [
+      "Python"
+    ],
+    "tech": [
+      ""
+    ],
     "descr": "Cipher coded to mimic the enigma machine structure, but allowing customization.",
-    "repo": "https://github.com/Jtachan/enigma_cipher"
+    "repo": "https://github.com/Jtachan/enigma_cipher",
+    "post": ""
   },
   {
     "name": "Conway's Game of Life",
-    "lang": "Python",
-    "tech": "PyGame",
+    "lang": [
+      "Python"
+    ],
+    "tech": [
+      "PyGame"
+    ],
     "descr": "Simulation generated to experiment about other algorithms.",
-    "repo": "https://github.com/Jtachan/PyQt-Sudoku"
+    "repo": "https://github.com/Jtachan/PyQt-Sudoku",
+    "post": ""
   },
   {
     "name": "Rubik's Simulator",
-    "lang": "Python",
-    "tech": "NumPy",
+    "lang": [
+      "Python"
+    ],
+    "tech": [
+      "NumPy"
+    ],
     "descr": "Installable package to operate with the Rubik's cube using an easy and simple interface.",
-    "repo": "https://github.com/Jtachan/Rubik_sim"
+    "repo": "https://github.com/Jtachan/Rubik_sim",
+    "post": ""
   }
 ]
