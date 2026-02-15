@@ -10,6 +10,8 @@ No matter what is the challenge, I bet it can be done!
     <img src="profile/top_langs.svg" alt="Most used languages: Python/Rust/C++/Css" height="200">
 </div>
 
+You can learn more about my projects at my personal website: https://jtachan.github.io/website/
+
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
   
